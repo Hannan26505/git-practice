@@ -2,6 +2,6 @@
 using namespace std;
 
 int main() {
-    cout << "Hello GSoC!njyj" << endl;
+    cout << "Hello GSoC! 2027 " << endl;
     return 0;
 }
