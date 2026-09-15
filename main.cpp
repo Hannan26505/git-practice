@@ -2,6 +2,6 @@
 using namespace std;
 
 int main() {
-    cout << "Now started using vscode " << endl;
+    cout << "Learning Open Source " << endl;
     return 0;
 } 
