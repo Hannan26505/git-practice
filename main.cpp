@@ -2,6 +2,6 @@
 using namespace std;
 
 int main() {
-    cout << "My first feature branch " << endl;
+    cout << "Learning Open Source " << endl;
     return 0;
 } 
